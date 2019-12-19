@@ -3,7 +3,10 @@ This project is part of the COMS 4995 Topics in Computer Science- Applied Deep L
 
 Prof. Josh Gordon 
 
-The data set used for the project is 21 slides of gigapixel pathology images 
+The data set used for the project is 21 slides of gigapixel pathology images.
+A brief run through of the entire project along with the code has been done in the video link given below.
+
+https://youtu.be/8KhpvgY9hUc
 
 # Instructions to run the project: </br>
 For smooth running of our notebooks you must first add this folder, named train_data, to your Google Drive:
